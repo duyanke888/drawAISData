@@ -1,4 +1,4 @@
-# 刘乙赛师兄的航线聚类前端程序
+# 利用OpenLayers.js绘制船舶AIS数据
 
 需要安装Node.js,[安装方法](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 
